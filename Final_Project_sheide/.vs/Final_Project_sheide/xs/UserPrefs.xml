@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{C26DC57E-1662-CAA3-C654-647354C3ED09}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/InverseMaterial.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRTK/Source/Scripts/Interactions/Interactables/VRTK_InteractableObject.cs">
     <Files>
       <File FileName="Assets/SampleScenes/Scripts/ParticleSceneControls.cs" Line="40" Column="1" />
       <File FileName="Assets/VRTK/Source/Editor/VRTK_SDKSetupEditor.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/LoadScene.cs" Line="13" Column="1" />
-      <File FileName="Assets/scripts/InverseMaterial.cs" Line="33" Column="2" />
+      <File FileName="Assets/scripts/ReverseNormals.cs" Line="1" Column="1" />
+      <File FileName="Assets/VRTK/Source/Scripts/Interactions/Interactables/VRTK_InteractableObject.cs" Line="879" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
