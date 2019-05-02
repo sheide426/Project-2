@@ -3034,7 +3034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3133109a21afd44c787b8916eeb7847c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  theScene: {fileID: 102900000, guid: b129e4e16a5b94021b45a4e3da05c5c4, type: 3}
+  theScene: {fileID: 102900000, guid: d82d1b36d647b4cdcb38f7c97d212711, type: 3}
 --- !u!65 &449097579
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10862,8 +10862,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1755492003}
-  m_LocalRotation: {x: -0.09936741, y: 0.6612761, z: 0.08902083, w: 0.73818386}
-  m_LocalPosition: {x: -37.698563, y: -40.36847, z: 469.62622}
+  m_LocalRotation: {x: -0.095542915, y: 0.38502756, z: 0.04011853, w: 0.91706914}
+  m_LocalPosition: {x: 162.99419, y: -3.796688, z: 512.5419}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
